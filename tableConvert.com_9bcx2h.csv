@@ -1,0 +1,35 @@
+﻿Team,Stadium,Acreage
+Los Angeles Chargers,SoFi Stadium,298
+Los Angeles Rams,SoFi Stadium,298
+Washington Football Team,FedExField,207
+Las Vegas Raiders,Allegiant Stadium,62
+Dallas Cowboys,AT&T Stadium,73
+Houston Texans,NRG Stadium,125
+Tennessee Titans,Nissan Stadium,105
+Miami Dolphins,Hard Rock Stadium,255
+Arizona Cardinals,State Farm Stadium,28
+Green Bay Packers,Lambeau Field,64
+San Francisco 49ers,Levi's Stadium,69
+Carolina Panthers,Bank of America Stadium,33
+New York Giants,MetLife Stadium,82
+New York Jets,MetLife Stadium,82
+Philadelphia Eagles,Lincoln Financial Field,39
+New England Patriots,Gillette Stadium,65
+Seattle Seahawks,Lumen Field,35
+Pittsburgh Steelers,Heinz Field,57
+Atlanta Falcons,Mercedes-Benz Stadium,39
+Indianapolis Colts,Lucas Oil Stadium,14
+Cleveland Browns,FirstEnergy Stadium,31
+Kansas City Chiefs,Arrowhead Stadium,250
+Detroit Lions,Ford Field,27
+Jacksonville Jaguars,TIAA Bank Field,85
+Minnesota Vikings,U.S. Bank Stadium,40
+Buffalo Bills,Highmark Stadium,141
+Chicago Bears,Soldier Field,17
+Cincinnati Bengals,Paul Brown Stadium,22
+New Orleans Saints,Caesar's Superdome,52
+
+Mean, , ,89.6
+Median, , ,65.5
+Minimum, , ,14
+Maximum, , ,298
