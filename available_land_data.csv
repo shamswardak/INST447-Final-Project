@@ -1,8 +1,8 @@
 State,County,City,Address,Acres,Type,distance_from_dc
-VA,Fairfax,Oakton,10728 Vale Rd,23.69,undeveloped,20.8
-VA,Fairfax,Great Falls,10509 Beach Mill Rd,21.24,residential,21.5
+VA,Fairfax County,Oakton,10728 Vale Rd,23.69,undeveloped,20.8
+VA,Fairfax County,Great Falls,10509 Beach Mill Rd,21.24,residential,21.5
 MD,Prince George's County,Fort Washington,11308-11406 Indian Head Highway,30.7,residential,15.2
-VA,Fairfax,Great Falls,Utterback Shore Rd,68.78,undeveloped,21.3
+VA,Fairfax County,Great Falls,Utterback Shore Rd,68.78,undeveloped,21.3
 VA,Loudoun County,Leesburg,James Monroe Hwy,371.8,undeveloped,39.5
 VA,Fairfax County,Great Falls,439 A Springvale Rd,50.03,undeveloped,20.7
 VA,Loudoun County,Leesburg,22485 Evergreen Mills Road,68.04,undeveloped,35.1
